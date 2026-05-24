@@ -1,0 +1,14 @@
+/* import 'package:geolocator/geolocator.dart';
+
+class LocationHelper {
+  static Future<Position> determinePosition() async {
+    bool isServiceEnabled;
+
+    isServiceEnabled = await Geolocator.isLocationServiceEnabled();
+    if (!isServiceEnabled) {
+      await Geolocator.requestPermission();
+    }
+
+    return await Geolocator.getCurrentPosition();
+  }
+} */

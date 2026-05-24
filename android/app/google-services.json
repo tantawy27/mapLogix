@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078442171159",
+    "project_id": "maplogix-a41ea",
+    "storage_bucket": "maplogix-a41ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078442171159:android:ef18b5f0788ce03876b552",
+        "android_client_info": {
+          "package_name": "com.tantawy.maplogix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuA5htLmnDdHDi7WBzurW-Y5S4iUuTZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
